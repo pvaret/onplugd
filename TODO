@@ -1,0 +1,5 @@
+- Add "--test <conf>" mode to exercise a specific config.
+- Add "--install" mode to automatically set up under systemd.
+- Add "--monitor" mode to dump debug data of ongoing device event.
+- Add "--wizard" mode to automatically generate a config for the devices that just got plugged.
+- Add README with doc in the config directory if it doesn't exist yet.
